@@ -1,2 +1,2 @@
 # Simon-Game
-This is my first game project :)
+This is my first game project :D
